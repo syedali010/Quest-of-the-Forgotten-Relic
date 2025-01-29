@@ -67,7 +67,7 @@ Arden confronts the relic's ultimate guardian in a climactic showdown to retriev
 ## Controls:
 - **Arrow keys:** Move left and right.
 - **Space:** Jump.
-- **Z:** Attack (for defeating enemies).
+- **T:** Attack (for defeating enemies).
 
 ## How to Play:
 1. Start by navigating through the **Forest of Beginnings**.
